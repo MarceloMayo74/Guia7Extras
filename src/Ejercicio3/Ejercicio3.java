@@ -8,9 +8,10 @@
  */
 package Ejercicio3;
 
-import Ejercicio3.entidades.Juego;
+import Ejercicio3.entidad.Juego;
 
 public class Ejercicio3 {
+
     public static void main(String[] args) {
         Juego juego1 = new Juego().crearJuego();
         juego1.iniciar_juego(juego1);

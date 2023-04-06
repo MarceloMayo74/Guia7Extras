@@ -6,7 +6,7 @@
  */
 package Ejercicio1;
 
-import Ejercicio1.entidades.Cancion;
+import Ejercicio1.entidad.Cancion;
 
 public class Ejercicio1 {
 

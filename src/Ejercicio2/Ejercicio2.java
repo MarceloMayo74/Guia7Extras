@@ -10,13 +10,12 @@
  */
 package Ejercicio2;
 
-import Ejercicio2.entidades.Puntos;
+import Ejercicio2.entidad.Puntos;
 
 public class Ejercicio2 {
 
     public static void main(String[] args) {
         Puntos puntos1 = new Puntos().crearPuntos();
         puntos1.distanciaPuntos(puntos1);
-
     }
 }

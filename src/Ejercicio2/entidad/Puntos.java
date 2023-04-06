@@ -1,4 +1,4 @@
-package Ejercicio2.entidades;
+package Ejercicio2.entidad;
 
 import java.util.Scanner;
 
@@ -26,7 +26,7 @@ public class Puntos {
         puntos.setX1(sc.nextDouble());
         System.out.println("Ingrese las coordenadas de Y1");
         puntos.setY1(sc.nextDouble());
-        System.out.println("Ingrese la coordenada X2");        
+        System.out.println("Ingrese la coordenada X2");
         puntos.setX2(sc.nextDouble());
         System.out.println("Ingrese la coordenada Y2");
         puntos.setY2(sc.nextDouble());
